@@ -22,11 +22,3 @@ Another advantage of GitHub Copilot is its potential to improve code quality. It
 However, it's important to note that while GitHub Copilot is a powerful tool, it is not a substitute for understanding the code you are writing. It's always important to review and validate the suggestions provided by Copilot to ensure they align with your specific requirements and coding standards.
 
 In summary, GitHub Copilot can be a valuable asset for developers, enhancing productivity, improving code quality, and serving as a learning tool. By leveraging the power of machine learning, Copilot can assist developers in writing code more efficiently and effectively.
-
-Here is a link to the roadmap of GitHub Copilot:
-
-[GitHub Copilot Roadmap](https://github.com/github/roadmap/projects/1)
-
-![GitHub Copilot Roadmap](https://example.com/image.jpg)
-
-Feel free to explore the roadmap to gain insights into the future development plans for GitHub Copilot.
