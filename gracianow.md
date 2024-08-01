@@ -1,16 +1,16 @@
 # Github Copilot is awsome! ;)
 
 ## 📒 Description
-I would like to descript some figures of Github copilot to show how it is useful for developers.
+I would like to describe some figures of GitHub Copilot to show how it is useful for developers.
 
 ## 🤖 Technologies Used
-To produce this content I used Microsoft Voice Typing and and Github copilot's voice commands.
+To produce this content, I used Microsoft Voice Typing and GitHub Copilot's voice commands.
 
 ## 🧐 Creation Process
 The creation process surprised me a lot because I have never used AI tools to produce content or files.
 
 ## 🚀 Results
-As you can see, my it is my first interaction with AI tools it was awesome because this experience increased my comprehension about Github Copilot. and AI tools.
+As you can see, it is my first interaction with AI tools, and it was awesome because this experience increased my comprehension about GitHub Copilot and AI tools.
 
 ## 💭 Reflection (Optional)
 As an AI programming assistant, I can provide some reflection on how GitHub Copilot can be useful for developers.
@@ -29,4 +29,4 @@ Here is a link to the roadmap of GitHub Copilot:
 
 ![GitHub Copilot Roadmap](https://example.com/image.jpg)
 
-Feel free to explore the roadmap to get insights into the future development plans for GitHub Copilot.
+Feel free to explore the roadmap to gain insights into the future development plans for GitHub Copilot.
